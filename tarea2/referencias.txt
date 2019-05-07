@@ -1,0 +1,7 @@
+https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
+
+http://www.mate.unlp.edu.ar/practicas/70_18_0911201012951
+
+https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
+
+https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca
